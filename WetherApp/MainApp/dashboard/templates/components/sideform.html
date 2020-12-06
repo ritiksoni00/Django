@@ -1,0 +1,11 @@
+<div class="py-4">
+	<div>
+		<form method="POST">
+			{% csrf_token%}
+			<p> Your City's Temprature </p>
+			{{ form.city_name }}
+			<button class="btn btn-warning" type="submit">Search</button>
+		</form>
+	</div>
+
+</div>
