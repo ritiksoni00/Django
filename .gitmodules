@@ -1,0 +1,3 @@
+[submodule "DJango-maps"]
+	path = DJango-maps
+	url = https://github.com/ritiksoni00/DJango-maps.git
