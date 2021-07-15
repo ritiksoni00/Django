@@ -122,4 +122,4 @@ STATIC_URL = '/static/'
 
 STATIC_ROOT =BASE_DIR / 'staticfiles'
 
-OWA_APY_KEY='a782cd74ccbd14478b9b1c6285bea5ae'
+OWA_APY_KEY='--'
